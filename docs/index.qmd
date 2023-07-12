@@ -17,50 +17,50 @@ editor: visual
 
 Home Land Plus Realty is a trusted and experienced real estate agency in Toronto, Canada. We offer a wide range of services to help you buy, sell, rent, or invest in properties in the Greater Toronto Area. Whether you are looking for a condo, a townhouse, a detached home, or a commercial space, we have the expertise and the network to find you the best deal. Our agents are professional, friendly, and knowledgeable, and they will guide you through every step of the process. Contact us today and let us help you achieve your real estate goals.
 
-## Listing 01: Dawson Loop
+## Listing 01
 
-![Listing01](images/hlpr/L01-01.jpg)
+![Dawson Loop](images/hlpr/L01-01.jpg)
 
-## Listing 02: 20 Monte Cristi
+## Listing 02
 
-![Listing01](images/hlpr/L02-01.jpg)
+![20 Monte Cristi](images/hlpr/L02-01.jpg)
 
-## Listing 03: 8 Eglington Ave E
+## Listing 03
 
-![Listing01](images/hlpr/L03-01.jpg)
+![8 Eglington Ave E](images/hlpr/L03-01.jpg)
 
-## Listing 04: 619 Merton St.
+## Listing 04
 
-![Listing01](images/hlpr/L04-01.jpg)
+![619 Merton St.](images/hlpr/L04-01.jpg)
 
-## Listing 05: 12 York St.
+## Listing 05
 
-![Listing01](images/hlpr/L05-01.jpg)
+![12 York St.](images/hlpr/L05-01.jpg)
 
-## Listing 06: 220 Deloraine Ave
+## Listing 06
 
-![Listing01](images/hlpr/L06-01.jpg)
+![220 Deloraine Ave](images/hlpr/L06-01.jpg)
 
-## Listing 07: 9 Heather Dr
+## Listing 07
 
-![Listing01](images/hlpr/L07-01.jpg)
+![9 Heather Dr](images/hlpr/L07-01.jpg)
 
-## Listing 08: 15, 17 Yongehurst Rd
+## Listing 08
 
-![Listing01](images/hlpr/L08-01.jpg)
+![15, 17 Yongehurst Rd](images/hlpr/L08-01.jpg)
 
-## Listing 09: Nahanni Dr
+## Listing 09
 
-![Listing01](images/hlpr/L09-01.jpg)
+![Nahanni Dr](images/hlpr/L09-01.jpg)
 
-## Listing 10: 73 Castlefield Ave
+## Listing 10
 
-![Listing01](images/hlpr/L10-01.jpg)
+![73 Castlefield Ave](images/hlpr/L10-01.jpg)
 
-## Listing 11: 1798 Emberton Way
+## Listing 11
 
-![Listing01](images/hlpr/L11-01.jpg)
+![1798 Emberton Way](images/hlpr/L11-01.jpg)
 
-## Listing 12: 8 Church St.
+## Listing 12
 
-![Listing01](images/hlpr/L12-01.jpg)
+![8 Church St.](images/hlpr/L12-01.jpg)
