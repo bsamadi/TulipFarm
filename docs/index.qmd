@@ -9,10 +9,58 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    footer: <https://collegi.ca>
+    footer: <https://www.instagram.com/instant.real.estate.posts/>
 editor: visual
 ---
 
 ## Home Land Plus
 
-Home Land Plus Realty is a leading real estate agency in Toronto, Canada, that offers a wide range of services to help clients buy, sell, or rent properties. Whether you are looking for a condo, a house, a townhouse, or a commercial space, Home Land Plus Realty has the expertise and the network to find the best deal for you. Home Land Plus Realty has been in the business for over 20 years, and has a team of experienced and licensed agents who are dedicated to providing excellent customer service and professional advice. Home Land Plus Realty also provides property management, mortgage brokerage, and home staging services to make your real estate journey easier and more convenient. Home Land Plus Realty is your trusted partner in finding your dream home or investment property in Toronto.
+Home Land Plus Realty is a trusted and experienced real estate agency in Toronto, Canada. We offer a wide range of services to help you buy, sell, rent, or invest in properties in the Greater Toronto Area. Whether you are looking for a condo, a townhouse, a detached home, or a commercial space, we have the expertise and the network to find you the best deal. Our agents are professional, friendly, and knowledgeable, and they will guide you through every step of the process. Contact us today and let us help you achieve your real estate goals.
+
+## Listing 01: Dawson Loop
+
+![Listing01](images/hlpr/L01-01.jpg)
+
+## Listing 02: 20 Monte Cristi
+
+![Listing01](images/hlpr/L02-01.jpg)
+
+## Listing 03: 8 Eglington Ave E
+
+![Listing01](images/hlpr/L03-01.jpg)
+
+## Listing 04: 619 Merton St.
+
+![Listing01](images/hlpr/L04-01.jpg)
+
+## Listing 05: 12 York St.
+
+![Listing01](images/hlpr/L05-01.jpg)
+
+## Listing 06: 220 Deloraine Ave
+
+![Listing01](images/hlpr/L06-01.jpg)
+
+## Listing 07: 9 Heather Dr
+
+![Listing01](images/hlpr/L07-01.jpg)
+
+## Listing 08: 15, 17 Yongehurst Rd
+
+![Listing01](images/hlpr/L08-01.jpg)
+
+## Listing 09: Nahanni Dr
+
+![Listing01](images/hlpr/L09-01.jpg)
+
+## Listing 10: 73 Castlefield Ave
+
+![Listing01](images/hlpr/L10-01.jpg)
+
+## Listing 11: 1798 Emberton Way
+
+![Listing01](images/hlpr/L11-01.jpg)
+
+## Listing 12: 8 Church St.
+
+![Listing01](images/hlpr/L12-01.jpg)
