@@ -64,3 +64,7 @@ Home Land Plus Realty is a trusted and experienced real estate agency in Toronto
 ## Listing 12
 
 ![8 Church St.](images/hlpr/L12-01.jpg)
+
+## Listing 13
+
+![718 - 9471 Yonge St](images/hlpr/L13-01.jpg)
